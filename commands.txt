@@ -1,0 +1,19 @@
+venv
+1. to create venv -> py -3.10 -m venv venv
+2. upgrade pip    ->python -m pip install --upgrade pip
+3. rasa install     -> pip install rasa
+4. flask install    -> pip install flask
+5. rasa train	-> rasa train
+6. to test in cmd -> rasa shell
+
+if errors:
+-> check folder in which u are
+-> try downgrading 
+if any errors:
+pip install protobuf==3.20.*
+
+
+
+to see:
+-> login auth
+-> text summary
