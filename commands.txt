@@ -17,3 +17,5 @@ pip install protobuf==3.20.*
 to see:
 -> login auth
 -> text summary
+
+tech stack : html css js
